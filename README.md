@@ -2,7 +2,7 @@
 
 sentinel-dashboard-nacos持久化
 
-application.properties
+# application.properties
 
 #spring settings
 spring.http.encoding.force=true
